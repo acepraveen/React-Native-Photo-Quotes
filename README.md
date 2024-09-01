@@ -1,6 +1,12 @@
 # React-Native-Photo-Quotes
 ![quotesApp](https://github.com/user-attachments/assets/81f9e537-c352-46dd-9243-74190a224563)
 
+
+https://github.com/user-attachments/assets/6711f2c3-91e3-46ef-98c5-58c20f8acc68
+
+
+
+
 **React Native Photo Quotes App**: A feature-rich mobile application designed for creating and customizing inspirational photo quotes. with own photo 
 
 - **Personalized Photo Quotes**: Users can craft unique images with quotes tailored to their style, using various templates or starting from scratch. The app allows extensive customization, ensuring that each quote reflects the user’s personal sentiment.
